@@ -1,3 +1,4 @@
+/* light.css */
 .page.theme_light {
   --title-color: #FFC2E6;
   --text-color: #353430;
@@ -39,10 +40,6 @@
     text-shadow: 4px 4px 0 #FF0070;
   }
   
-  .footer__title {
-    text-shadow: 4px 4px 0 #FF0070;
-  }
-}
   .footer__title {
     text-shadow: 4px 4px 0 #FF0070;
   }
